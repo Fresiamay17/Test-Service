@@ -1,5 +1,5 @@
 {
-  "name": "Test-service",
+  "name": "webhook-echo-sample",
   "description": "Webhook echo sample",
   "repository": "https://github.com/Fresiamay17/Test-Service.git",
   "keywords": ["api.ai", "dialogflow", "natural language"]
